@@ -1,7 +1,5 @@
 # PHONEKART (A basic e-comm system for beginners)📚🛒
 
-📢 Initially , this project was built with .net 7. But it works fine with .net 6+ and now it is **Upgraded to .net 8.0.** I will try to keep it up to date.
-
 ## Tech stack 🧑‍💻
 
 - Dotnet core mvc (.Net 8)
