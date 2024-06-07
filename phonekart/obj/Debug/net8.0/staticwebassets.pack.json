@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\study\\db project\\submission\\phonekart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PHONEKART.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PHONEKART.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\study\\db project\\submission\\phonekart\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\study\\db project\\submission\\phonekart\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\study\\db project\\submission\\phonekart\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "D:\\study\\db project\\submission\\phonekart\\wwwroot\\images\\hobbit.jfif",
+      "PackagePath": "staticwebassets\\images\\hobbit.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PHONEKART.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PHONEKART.props",
+      "PackagePath": "build\\PHONEKART.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PHONEKART.props",
+      "PackagePath": "buildMultiTargeting\\PHONEKART.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PHONEKART.props",
+      "PackagePath": "buildTransitive\\PHONEKART.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

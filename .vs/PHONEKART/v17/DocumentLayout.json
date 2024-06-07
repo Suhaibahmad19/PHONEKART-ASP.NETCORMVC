@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\db project\\submission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|phonekart\\PHONEKART.csproj|d:\\study\\db project\\submission\\phonekart\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|phonekart\\PHONEKART.csproj|solutionrelative:phonekart\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|phonekart\\PHONEKART.csproj|d:\\study\\db project\\submission\\phonekart\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|phonekart\\PHONEKART.csproj|solutionrelative:phonekart\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|phonekart\\PHONEKART.csproj|d:\\study\\db project\\submission\\phonekart\\views\\stock\\manangestock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|phonekart\\PHONEKART.csproj|solutionrelative:phonekart\\views\\stock\\manangestock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|phonekart\\PHONEKART.csproj|d:\\study\\db project\\submission\\phonekart\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|phonekart\\PHONEKART.csproj|solutionrelative:phonekart\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|phonekart\\PHONEKART.csproj|d:\\study\\db project\\submission\\phonekart\\views\\phone\\addphone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5001577-BC72-4719-A300-461E318E9744}|phonekart\\PHONEKART.csproj|solutionrelative:phonekart\\views\\phone\\addphone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManangeStock.cshtml",
+              "DocumentMoniker": "D:\\study\\db project\\submission\\phonekart\\Views\\Stock\\ManangeStock.cshtml",
+              "RelativeDocumentMoniker": "phonekart\\Views\\Stock\\ManangeStock.cshtml",
+              "ToolTip": "D:\\study\\db project\\submission\\phonekart\\Views\\Stock\\ManangeStock.cshtml",
+              "RelativeToolTip": "phonekart\\Views\\Stock\\ManangeStock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T07:05:09.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\db project\\submission\\phonekart\\Views\\Stock\\Index.cshtml",
+              "RelativeDocumentMoniker": "phonekart\\Views\\Stock\\Index.cshtml",
+              "ToolTip": "D:\\study\\db project\\submission\\phonekart\\Views\\Stock\\Index.cshtml",
+              "RelativeToolTip": "phonekart\\Views\\Stock\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T07:05:07.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "D:\\study\\db project\\submission\\phonekart\\Repositories\\StockRepository.cs",
+              "RelativeDocumentMoniker": "phonekart\\Repositories\\StockRepository.cs",
+              "ToolTip": "D:\\study\\db project\\submission\\phonekart\\Repositories\\StockRepository.cs",
+              "RelativeToolTip": "phonekart\\Repositories\\StockRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:04:32.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneController.cs",
+              "DocumentMoniker": "D:\\study\\db project\\submission\\phonekart\\Controllers\\PhoneController.cs",
+              "RelativeDocumentMoniker": "phonekart\\Controllers\\PhoneController.cs",
+              "ToolTip": "D:\\study\\db project\\submission\\phonekart\\Controllers\\PhoneController.cs",
+              "RelativeToolTip": "phonekart\\Controllers\\PhoneController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwEUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:03:38.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPhone.cshtml",
+              "DocumentMoniker": "D:\\study\\db project\\submission\\phonekart\\Views\\Phone\\AddPhone.cshtml",
+              "RelativeDocumentMoniker": "phonekart\\Views\\Phone\\AddPhone.cshtml",
+              "ToolTip": "D:\\study\\db project\\submission\\phonekart\\Views\\Phone\\AddPhone.cshtml",
+              "RelativeToolTip": "phonekart\\Views\\Phone\\AddPhone.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T07:03:20.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
